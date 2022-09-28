@@ -2,7 +2,6 @@ title: Maria Scenario7a
 description: Docker Intro Scenario Test
 time: 20 minutes
 level: intermediate
-thumbnail: https://brainarator.s3.amazonaws.com/new/pngs/docker.png
 authors:
   - s13
 steps:
